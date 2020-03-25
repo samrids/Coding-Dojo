@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/03/25 08:01:41.079,C:\Users\samrid.so\Documents\Embarcadero\Studio\Projects\calGrade.dproj=C:\Users\samrid.so\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/03/25 08:02:08.931,=C:\Users\samrid.so\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/25 08:02:13.453,C:\Users\samrid.so\Documents\Embarcadero\Studio\Projects\Grade.pas=C:\Users\samrid.so\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/25 09:31:59.655,D:\Delphi_Rio\test_calculate_grade\Grade.pas=C:\Users\samrid.so\Documents\Embarcadero\Studio\Projects\Grade.pas</Transaction>
+    <Transaction>2020/03/25 09:32:02.462,D:\Delphi_Rio\test_calculate_grade\calGrade.dproj=C:\Users\samrid.so\Documents\Embarcadero\Studio\Projects\calGrade.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
